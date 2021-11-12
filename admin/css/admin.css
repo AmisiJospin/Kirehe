@@ -1,0 +1,123 @@
+#corps
+{
+	width:1000px;
+	margin:auto;
+	border:1px solid #0f0;
+	font-family:'Trebuchet MS';
+	background:rgb(219,219,219);
+}
+
+p{
+	font-size:20px;
+	font-family:'century gothic';
+	color:red;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+
+.header{
+	height:50px;
+	width:995px;
+	border:1px solid #f00;
+	text-align:center;
+	top:-2px;
+}
+
+.aside{
+	margin:25px 0 0 10px;
+	width:250px;
+	display:inline-block;
+	border:1px solid #00f;
+	height:300px;
+	float: left;
+}
+
+
+.section{
+	margin:0 10px 0 0;	
+	float:right;
+	margin-left:4px;
+	width:690px;
+	display:inline-block;
+	border:1px solid #00f;
+}
+
+#footer{
+	display:inline-block;
+	height:50px;
+	width:995px;
+	border:1px solid #f0f;
+	margin:5px 0 0 0;
+}
+
+
+
+#corps form
+{
+	width:500px;
+	background:rgb(219,219,219);
+}
+.exe
+{
+font-size:22px;
+font-family:"century gothic";
+text-align:center;
+padding:5px;
+text-decoration:underline;
+}
+
+form table{
+margin:0 0 0 100px;
+font-size:18px;
+font-family:"Trebuchet MS";
+}
+
+
+
+.textform {
+	display:inline-block;
+	width:430px;
+	height:20px;
+	padding:5px 5px 5px 5px;
+	border:2px solid #4dad49;
+}
+
+.text{
+	height:10px;
+	width:20px;
+}
+
+.message{
+	margin-top:-10px;
+	height:150px;
+	width:500px;
+	border:2px solid #4dad49;
+	padding: 10px 10px;
+}
+
+.boutonenvoyer{
+	
+	width:90px;
+	height:40px;
+	float:right;
+	background:#4dad49;
+	color:#fff;
+	border:1px solid #000;
+	border-radius:10px;
+	font-size: 18px;
+	font-family:"trebuchet MS";
+	box-shadow:0px 15px 10px #000;
+	margin: 0 0 15px 0;
+}
+
+.boutonenvoyer:hover{
+	background:#f7891a;
+}
+
+.erreur{
+	padding:10px;
+	background:rgba(255, 0, 0, 0.35);
+	font-size:14px;
+}
+
+

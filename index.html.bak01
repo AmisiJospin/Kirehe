@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Positionnement</title>
+			<link rel="stylesheet" href="css/style.css" />
+		</head>
+
+	<body>
+		<div class="corps">
+			<div id="entete">
+				<div class="logo">
+					<img src="images/gira-logo.png" />
+				</div>
+				
+				<div class="entete_droite">
+					<div id="box">
+						<div class="search_box">
+							<form action="" method="GET">
+								<input type="text" name="recherche" class="recherche" />
+								<input type="submit" name="bouton" class="button" value="" />
+							</form>
+						</div>
+					<div class="social_box">
+						<a href="#"><span class="fbk"></span></a>
+						<a href="#"><span class="twitter"></span></a>
+						<a href="#"><span class="youtube"></span></a>
+					</div>
+				</div>
+			</div>
+			
+			<div id="menu">
+				<ul>
+					<a href="index.html"><li class="menu_active">Accueil</li></a>
+					<li>Apropos de Nous</li>
+					<li>Nos Activit�s</li>
+					<li>Objectifs</li>
+					<li>Programmes</li>
+					<a href="video.html"><li>Videos</li></a>
+					<li class="dernier_menu">Contactez-nous</li>
+				</ul>
+			</div>
+			
+			<div id="contenu">
+				<div id="slide">
+					<img src="images/slider.jpg" width="980" height="400" />
+				</div>
+				
+				<div id="page">
+					<div class="article">
+						<div class="title">MISSION</div>
+						<img src="images/mission.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+					</div>
+					
+					<div class="article">
+						<div class="title">VISION</div>
+						<img src="images/vision.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+				
+					</div>
+					
+					<div class="article">
+					<div class="title">VALEUR</div>
+						<img src="images/valeur.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+				
+					</div>
+					
+				<div class="article">
+						<div class="title">OBJECTIF</div>
+						<img src="images/photo5.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+					</div>
+					
+					<div class="article">
+						<div class="title">DONATION</div>
+						<img src="images/photo8.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+				
+					</div>
+					
+					<div class="article">
+					<div class="title">ACTIVITE</div>
+						<img src="images/photo9.jpg" width="320" height="150" alt="" />
+						<div class="description">
+						So that's 37 girls who have just been given the opportunity to realize dreams they aren't yet even aware of. 
+						37 girls who will be moving their heads from downcast to held up and not afraid to make eye contact. 
+					
+						</div>
+						<center><span class="readmore">Lire Plus</span></center>
+				
+					</div>
+				
+				</div>
+			</div>
+			
+			<div id="pied_de_page">
+				<img src="images/bg-footer.png" />
+			</div>
+		
+		</div>
+		
+	</body>
+	</html>
