@@ -1,21 +1,27 @@
+/*
+Name: Jospin Amisi
+Location: Lilongwe, Malawi
+Phone Number: +265992129078
+*/
+
 <?php 					
 
-		include('connexion.php');
+	include('connexion.php');
 
 	 if(isset($_POST['boutonenvoyer']))
 	{
 				
-				$error = 0;
-			
-			
-			if (!isset($_POST['login']) || empty($_POST['login']))
-				{
-					$error = 1;
-				}
-			if (!isset($_POST['mdp']) || empty($_POST['login']))  
-				{
-					$error = 1;
-				}
+		$error = 0;
+
+
+		if (!isset($_POST['login']) || empty($_POST['login']))
+			{
+				$error = 1;
+			}
+		if (!isset($_POST['mdp']) || empty($_POST['login']))  
+			{
+				$error = 1;
+			}
 			
 			if ($error ==0)  
 				{
