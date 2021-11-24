@@ -1,3 +1,9 @@
+/*
+Name: Jospin Amisi
+Location: Lilongwe, Malawi
+Phone Number: +265992129078
+*/
+
 <?php
    $host='localhost';
    $db='igihe';
